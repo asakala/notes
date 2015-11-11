@@ -1,0 +1,31 @@
+String immutability
+-------------------
+
+String name = "Anil ";
+name.concat("Kumar");
+System.out.println(name);
+
+---------------------------------
+
+public class Employee{
+
+private int id;
+private String name;
+
+public Employee(String name ,  int id){
+	this.name = name;
+	this.id = id;
+}
+
+}
+
+Employee e1 = new Employee("anil" , 1);
+Employee e2 = new Employee("anil" , 1);
+Set<Employee> emps = new HashSet<Employee>();
+emps.add(e1);
+emps.add(e2);
+System.out.println(emps.size())
+
+---------------------------------------------
+
+
