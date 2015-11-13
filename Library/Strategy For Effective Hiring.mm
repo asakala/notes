@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1446830963126" ID="ID_1495392880" MODIFIED="1446886033687" TEXT="Strategy For Effective Hiring">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1446834686110" FOLDED="true" HGAP="11" ID="ID_1612737896" MODIFIED="1446897227672" POSITION="right" TEXT="Initial screening  - This is where our bad hiring starts" VSHIFT="-67">
+<node CREATED="1446834686110" HGAP="11" ID="ID_1612737896" MODIFIED="1447424262850" POSITION="right" TEXT="Initial screening  - This is where our bad hiring starts" VSHIFT="-67">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1446836618877" HGAP="34" ID="ID_165534292" MODIFIED="1446889266011" TEXT="Get right set of resumes" VSHIFT="3">
 <node CREATED="1446835763602" ID="ID_142695545" LINK="ProkarmaOnsite.docx" MODIFIED="1446892060297" TEXT="TA team should promote brand the way our onsite group is doing">
@@ -32,6 +32,7 @@
 <node CREATED="1446895262761" ID="ID_1206015228" LINK="https://www.linkedin.com/pub/yellappa-sakaray/14/386/58" MODIFIED="1446895552979" TEXT="yel"/>
 </node>
 <node CREATED="1446885404887" ID="ID_1549214251" MODIFIED="1446885509134" TEXT="All profiles that suite requirements can be passed to any person in second round panel . They will have look at profiles to shortlist profile"/>
+<node CREATED="1447424273724" ID="ID_207508375" MODIFIED="1447424276312" TEXT="https://testmoz.com/"/>
 </node>
 <node CREATED="1446873782188" ID="ID_1425035985" MODIFIED="1446886013064" TEXT="Experience &lt; 5">
 <node CREATED="1446885602237" ID="ID_502620204" MODIFIED="1446885761992" TEXT="Employees with less than 5 years may not have account in linkedIn"/>
@@ -43,7 +44,7 @@
 <node CREATED="1446884377620" ID="ID_47106320" MODIFIED="1446884845934" TEXT="Success ratio between number of interviews conducted and number of people who got selected in interview"/>
 </node>
 </node>
-<node CREATED="1446836896832" FOLDED="true" HGAP="89" ID="ID_876308215" MODIFIED="1446897225666" POSITION="right" TEXT="Organisation evaluates candidate" VSHIFT="-11">
+<node CREATED="1446836896832" HGAP="89" ID="ID_876308215" MODIFIED="1447412048558" POSITION="right" TEXT="Organisation evaluates candidate" VSHIFT="-11">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1446836948441" HGAP="23" ID="ID_1047422546" MODIFIED="1446841147619" TEXT="First round" VSHIFT="-108">
 <node CREATED="1446837087114" HGAP="30" ID="ID_651794033" MODIFIED="1446841165987" TEXT="Interview room" VSHIFT="-3">
@@ -85,7 +86,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1446836903376" FOLDED="true" HGAP="23" ID="ID_885760434" MODIFIED="1446897228952" POSITION="right" TEXT="Candidate evaluates organization" VSHIFT="67">
+<node CREATED="1446836903376" HGAP="23" ID="ID_885760434" MODIFIED="1447412032923" POSITION="right" TEXT="Candidate evaluates organization" VSHIFT="67">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1446837644257" HGAP="42" ID="ID_617976210" MODIFIED="1446847056737" TEXT="Glassdoor" VSHIFT="-13">
 <node CREATED="1446846395177" ID="ID_695075949" MODIFIED="1446846408429" TEXT="Summary of glassdoor comments">
