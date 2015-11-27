@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1446830963126" ID="ID_1495392880" MODIFIED="1446886033687" TEXT="Strategy For Effective Hiring">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1446834686110" HGAP="11" ID="ID_1612737896" MODIFIED="1447424262850" POSITION="right" TEXT="Initial screening  - This is where our bad hiring starts" VSHIFT="-67">
+<node CREATED="1446834686110" FOLDED="true" HGAP="11" ID="ID_1612737896" MODIFIED="1448532615773" POSITION="right" TEXT="Initial screening  - This is where our bad hiring starts" VSHIFT="-67">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1446836618877" HGAP="34" ID="ID_165534292" MODIFIED="1446889266011" TEXT="Get right set of resumes" VSHIFT="3">
 <node CREATED="1446835763602" ID="ID_142695545" LINK="ProkarmaOnsite.docx" MODIFIED="1446892060297" TEXT="TA team should promote brand the way our onsite group is doing">
@@ -44,7 +44,7 @@
 <node CREATED="1446884377620" ID="ID_47106320" MODIFIED="1446884845934" TEXT="Success ratio between number of interviews conducted and number of people who got selected in interview"/>
 </node>
 </node>
-<node CREATED="1446836896832" HGAP="89" ID="ID_876308215" MODIFIED="1447412048558" POSITION="right" TEXT="Organisation evaluates candidate" VSHIFT="-11">
+<node CREATED="1446836896832" FOLDED="true" HGAP="89" ID="ID_876308215" MODIFIED="1448532617394" POSITION="right" TEXT="Organisation evaluates candidate" VSHIFT="-11">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1446836948441" HGAP="23" ID="ID_1047422546" MODIFIED="1446841147619" TEXT="First round" VSHIFT="-108">
 <node CREATED="1446837087114" HGAP="30" ID="ID_651794033" MODIFIED="1446841165987" TEXT="Interview room" VSHIFT="-3">
@@ -86,9 +86,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1446836903376" HGAP="23" ID="ID_885760434" MODIFIED="1447412032923" POSITION="right" TEXT="Candidate evaluates organization" VSHIFT="67">
+<node CREATED="1446836903376" FOLDED="true" HGAP="23" ID="ID_885760434" MODIFIED="1448533016440" POSITION="right" TEXT="Candidate evaluates organization" VSHIFT="67">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1446837644257" HGAP="42" ID="ID_617976210" MODIFIED="1446847056737" TEXT="Glassdoor" VSHIFT="-13">
+<node CREATED="1446837644257" FOLDED="true" HGAP="42" ID="ID_617976210" MODIFIED="1448533011375" TEXT="Glassdoor" VSHIFT="-13">
 <node CREATED="1446846395177" ID="ID_695075949" MODIFIED="1446846408429" TEXT="Summary of glassdoor comments">
 <node CREATED="1446846823081" ID="ID_1402808363" MODIFIED="1446846834238" TEXT="Overall rating for HYD is 3.0"/>
 <node CREATED="1446846475721" ID="ID_1409311658" MODIFIED="1446846484733" TEXT="Good technoligies"/>
