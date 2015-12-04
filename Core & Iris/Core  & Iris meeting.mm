@@ -12,6 +12,7 @@
 <node CREATED="1448532442961" ID="ID_1359490248" MODIFIED="1448896123136" TEXT="Outing - Thanks to goutam , "/>
 <node CREATED="1448896067112" ID="ID_1093467330" MODIFIED="1448896093912" TEXT="Excellent participation in retro . Unbelievable growth in the way you look at teams"/>
 <node CREATED="1448896191713" ID="ID_1706168604" MODIFIED="1448896230979" TEXT="Firoz took initiative to take for one of the issues raised by Shawn. Good to hear this"/>
+<node CREATED="1448980269026" ID="ID_10720564" MODIFIED="1448980285882" TEXT="Good work by Lavanya in driving sprint plan"/>
 </node>
 <node CREATED="1447999427597" ID="ID_610997063" MODIFIED="1447999440489" POSITION="left" TEXT="Topics for discussion">
 <node CREATED="1447999529577" ID="ID_203588763" MODIFIED="1448896401467" TEXT="Important people assets - mentors , trainers , leaders , technical and project management experts"/>
