@@ -1,7 +1,11 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1449977351807" ID="ID_1961721350" MODIFIED="1449977845642" TEXT="Maven">
-<node CREATED="1449977846969" ID="ID_1306675276" MODIFIED="1449977846969" POSITION="left" TEXT=""/>
+<node CREATED="1449977846969" ID="ID_1306675276" MODIFIED="1450089291181" POSITION="left" TEXT="Resources">
+<node CREATED="1450089292681" ID="ID_992397981" MODIFIED="1450089295415" TEXT="http://www.codetab.org/"/>
+<node CREATED="1450089314151" ID="ID_1765045220" MODIFIED="1450089315574" TEXT="http://www.pluralsight.com/"/>
+<node CREATED="1450098948919" ID="ID_680101878" MODIFIED="1450098951251" TEXT="http://books.sonatype.com/mvnref-book/reference/lifecycle-sect-structure.html#lifecycle-sect-default"/>
+</node>
 <node CREATED="1449977851982" ID="ID_542909686" MODIFIED="1449980804601" POSITION="right" TEXT="Why ? -0">
 <node CREATED="1449977835860" ID="ID_83456452" MODIFIED="1449977845094" TEXT="Build Tool">
 <node CREATED="1449977959864" ID="ID_621841659" MODIFIED="1449977965926" TEXT="Produce artifacts"/>
@@ -33,7 +37,7 @@
 </node>
 <node CREATED="1449980564205" ID="ID_1436186777" MODIFIED="1449980564205" POSITION="left" TEXT=""/>
 <node CREATED="1450010638086" ID="ID_1242173474" MODIFIED="1450010969471" POSITION="right" TEXT="Maven Project">
-<node CREATED="1450010982203" ID="ID_548120601" MODIFIED="1450011875165" TEXT="Expectations from maven project">
+<node CREATED="1450010982203" ID="ID_548120601" MODIFIED="1450087849776" TEXT="Expectations from maven project">
 <node CREATED="1450010865394" ID="ID_252355331" MODIFIED="1450011539708" TEXT="Every maven project must have pom.ml file in it">
 <node CREATED="1450011409813" ID="ID_1684049662" MODIFIED="1450011702261" TEXT="Project details">
 <node CREATED="1450011435288" ID="ID_1584463295" MODIFIED="1450011481212" TEXT=" groupid - company "/>
@@ -83,7 +87,10 @@
 <node CREATED="1450016555024" ID="ID_1980843633" MODIFIED="1450016563464" TEXT="build/finalName"/>
 </node>
 </node>
-<node CREATED="1450011582291" ID="ID_1841130371" MODIFIED="1450011585619" TEXT="plugins"/>
+<node CREATED="1450011582291" ID="ID_1841130371" MODIFIED="1450011585619" TEXT="plugins">
+<node CREATED="1450087944816" ID="ID_900875457" MODIFIED="1450087947014" TEXT="Maven&quot; is really just a core framework for a collection of Maven Plugins. In other words, plugins are where much of the real action is performed, plugins are used to: create jar files, create war files, compile code, unit test code, create project documentation, and on and on. Almost any action that you can think of performing on a project is implemented as a Maven plugin"/>
+<node CREATED="1450097438265" ID="ID_1345123702" MODIFIED="1450097444013" TEXT="plugins have goals"/>
+</node>
 </node>
 <node CREATED="1450011591308" ID="ID_1951891020" MODIFIED="1450011595732" TEXT="repositories">
 <node CREATED="1450016087256" ID="ID_448800817" MODIFIED="1450016091365" TEXT="local repo">
