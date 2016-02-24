@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1453185971283" ID="ID_64560263" MODIFIED="1453212698921" TEXT="Engagement Steps">
+<node CREATED="1453185971283" ID="ID_64560263" MODIFIED="1456334076189" TEXT="Engagement Steps">
 <node CREATED="1453186081263" ID="ID_80583314" MODIFIED="1453210039272" POSITION="right" TEXT="Strategy for employee engagement" VSHIFT="-25"/>
 <node CREATED="1453186317152" ID="ID_734823767" MODIFIED="1453186401452" POSITION="right" TEXT="Deep dive into engagement terminology and discuss about few management practices">
 <node CREATED="1453186011852" ID="ID_169141368" MODIFIED="1453186075874" TEXT="Three important terms - Employee engagement , Employee needs , Employee happiness"/>

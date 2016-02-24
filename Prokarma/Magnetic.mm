@@ -6,7 +6,10 @@
 </node>
 <node CREATED="1454084981312" ID="ID_868159383" MODIFIED="1454084981312" POSITION="left" TEXT=""/>
 <node CREATED="1454084991620" ID="ID_1241706179" MODIFIED="1454084998257" POSITION="right" TEXT="What was discussed ?"/>
-<node CREATED="1454085000283" ID="ID_710570964" MODIFIED="1454085000283" POSITION="left" TEXT=""/>
+<node CREATED="1454085000283" ID="ID_710570964" MODIFIED="1454240518235" POSITION="left" TEXT="Failures">
+<node CREATED="1454240520661" ID="ID_1798948014" MODIFIED="1454240593912" TEXT="When the consequences of reproting a failure are too severe, employees avoid acknowledging mistakes all together"/>
+<node CREATED="1454240685214" ID="ID_1347842488" MODIFIED="1454240739324" TEXT="Mistakes are caused inattention  , lack of ability and uncetainity and experimentation"/>
+</node>
 <node CREATED="1454085003547" ID="ID_779698462" MODIFIED="1454085014710" POSITION="right" TEXT="What is not discussed ?">
 <node CREATED="1454085044980" ID="ID_621193011" MODIFIED="1454085099860" TEXT="How can we assess engagement levels of employees in a company"/>
 <node CREATED="1454085116534" ID="ID_459801913" MODIFIED="1454086976348" TEXT="Deep dive into how engagement improves productivity ? Is this the only way to improve productivity ?">

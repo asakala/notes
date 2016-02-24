@@ -32,6 +32,7 @@
 <node CREATED="1455783507278" ID="ID_1183565561" MODIFIED="1455783509380" TEXT="http://www.amazon.com/Management-Practices-Waste-Money-instead/dp/093710017X/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr="/>
 <node CREATED="1455797692361" ID="ID_1563747987" MODIFIED="1455797694114" TEXT="http://business.financialpost.com/executive/careers/why-performance-appraisals-need-to-be-scrapped"/>
 <node CREATED="1455798181642" ID="ID_216343695" LINK="The%20Best%20Are%20Much%20Better%20Than%20the%20Rest.docx" MODIFIED="1455798215823" TEXT="doc"/>
+<node CREATED="1455959742228" ID="ID_355436948" MODIFIED="1455959743905" TEXT="http://www.forbes.com/sites/danpontefract/2015/04/27/work-rules-rules-at-google/#6451bdee19bc"/>
 </node>
 </node>
 </map>
