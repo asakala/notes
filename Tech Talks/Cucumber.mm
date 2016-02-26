@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1454058237049" ID="ID_999927508" MODIFIED="1454059664101" TEXT="Cucumber">
+<node CREATED="1454058237049" ID="ID_999927508" MODIFIED="1456395197235" TEXT="Cucumber">
 <node CREATED="1454425456813" ID="ID_831784144" MODIFIED="1455554420404" POSITION="right" TEXT="Chapter - 1">
 <node CREATED="1454425481800" FOLDED="true" HGAP="23" ID="ID_1092175397" MODIFIED="1455554423029" TEXT="Big Problem :  The biggest problem that we are facing today in IT industry is communication gap between domain experts and technical people" VSHIFT="-1">
 <node CREATED="1454425557722" ID="ID_1508785994" MODIFIED="1454425631023" TEXT="In conventional practice domain experts write some document and hand it over to developers which is not complete to translate to code well "/>
@@ -29,6 +29,15 @@
 <node CREATED="1454490495586" ID="ID_1929886035" MODIFIED="1454498226127" TEXT="In BDD we create a document that is used by both BA and acts as automation test suite by the system"/>
 </node>
 <node CREATED="1454501520886" HGAP="27" ID="ID_1239365051" LINK="FeatureFileEx1.jpg" MODIFIED="1454502556747" TEXT="Example feature file" VSHIFT="60"/>
+</node>
+<node CREATED="1456394907040" ID="ID_229199479" MODIFIED="1456395269977" POSITION="left" TEXT="Regular Expressions">
+<node CREATED="1456395058339" ID="ID_50697519" MODIFIED="1456395061279" TEXT="\d"/>
+<node CREATED="1456395200351" ID="ID_1517170551" MODIFIED="1456395203772" TEXT="\s"/>
+<node CREATED="1456395205240" ID="ID_998046547" MODIFIED="1456395206727" TEXT="?"/>
+<node CREATED="1456395207913" ID="ID_1472256859" MODIFIED="1456395211051" TEXT="+"/>
+<node CREATED="1456395271586" ID="ID_1821234644" MODIFIED="1456395273750" TEXT="."/>
+<node CREATED="1456395326061" ID="ID_1249037826" MODIFIED="1456395332504" TEXT="^"/>
+<node CREATED="1456395430344" ID="ID_1266958801" MODIFIED="1456395433210" TEXT="$"/>
 </node>
 </node>
 </map>
