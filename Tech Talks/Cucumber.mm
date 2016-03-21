@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1454058237049" ID="ID_999927508" MODIFIED="1456395197235" TEXT="Cucumber">
-<node CREATED="1454425456813" ID="ID_831784144" MODIFIED="1455554420404" POSITION="right" TEXT="Chapter - 1">
+<node CREATED="1454425456813" HGAP="2" ID="ID_831784144" MODIFIED="1456929415915" POSITION="right" TEXT="Chapter - 1" VSHIFT="-105">
 <node CREATED="1454425481800" FOLDED="true" HGAP="23" ID="ID_1092175397" MODIFIED="1455554423029" TEXT="Big Problem :  The biggest problem that we are facing today in IT industry is communication gap between domain experts and technical people" VSHIFT="-1">
 <node CREATED="1454425557722" ID="ID_1508785994" MODIFIED="1454425631023" TEXT="In conventional practice domain experts write some document and hand it over to developers which is not complete to translate to code well "/>
 <node CREATED="1454426315615" ID="ID_110099974" MODIFIED="1454426561749" TEXT="We should establish a way that reduces this communication gap between developers and BA&apos;s"/>
@@ -38,6 +38,10 @@
 <node CREATED="1456395271586" ID="ID_1821234644" MODIFIED="1456395273750" TEXT="."/>
 <node CREATED="1456395326061" ID="ID_1249037826" MODIFIED="1456395332504" TEXT="^"/>
 <node CREATED="1456395430344" ID="ID_1266958801" MODIFIED="1456395433210" TEXT="$"/>
+</node>
+<node CREATED="1456732100656" ID="ID_1130013691" MODIFIED="1456732111885" POSITION="right" TEXT="Chapter - 3 (Gherkin)">
+<node CREATED="1456733127796" ID="ID_57909931" MODIFIED="1456733162494" TEXT="In cucumber feature file we create examples of the behaviour needed for that feature to be acceptable"/>
+<node CREATED="1456733397525" ID="ID_1885385835" MODIFIED="1456733427805" TEXT="We use gerkhin to write automated tests that can be understood by both machines and humans"/>
 </node>
 </node>
 </map>
