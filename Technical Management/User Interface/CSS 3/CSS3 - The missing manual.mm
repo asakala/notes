@@ -1,14 +1,14 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1458560621713" ID="ID_1880227655" MODIFIED="1458742725779" TEXT="CSS3 - The misssing Manual">
-<node CREATED="1458560781235" FOLDED="true" HGAP="-21" ID="ID_112580703" MODIFIED="1458742476016" POSITION="right" TEXT="Introduction" VSHIFT="-103">
+<node CREATED="1458560781235" HGAP="-21" ID="ID_112580703" MODIFIED="1458826039127" POSITION="right" TEXT="Introduction" VSHIFT="-103">
 <node CREATED="1458560869108" ID="ID_1573851558" MODIFIED="1458560873519" TEXT="What is CSS"/>
 <node CREATED="1458563670465" ID="ID_678202611" MODIFIED="1458563741202" TEXT="Advantages of CSS over html">
 <node CREATED="1458563811838" ID="ID_1464587075" MODIFIED="1458563818304" TEXT="Overall page size is less"/>
 <node CREATED="1458563994189" ID="ID_10650860" MODIFIED="1458564006016" TEXT="Easy to maintain because fo clean separation"/>
 <node CREATED="1458564006933" ID="ID_496614133" MODIFIED="1458564015831" TEXT="Search engine friendly"/>
 </node>
-<node CREATED="1458561096701" ID="ID_1384795414" MODIFIED="1458626611185" TEXT="Writing html for css page">
+<node CREATED="1458561096701" HGAP="26" ID="ID_1384795414" MODIFIED="1458826177526" TEXT="Writing html for css page" VSHIFT="-13">
 <node CREATED="1458561106213" ID="ID_136375341" MODIFIED="1458561136481" TEXT="Your page design starts with best html . Choose appropiate html tags and create page after which you can apply css"/>
 <node CREATED="1458561205456" ID="ID_1776801255" MODIFIED="1458561237374" TEXT="Use appropriate html tags ">
 <node CREATED="1458561398768" ID="ID_1781022904" MODIFIED="1458561418902" TEXT="&lt;!doctype html&gt; - Start your page with this tag"/>
@@ -50,7 +50,7 @@
 <node CREATED="1458564987150" ID="ID_658170913" MODIFIED="1458564998772" TEXT="Map styles to elements "/>
 </node>
 </node>
-<node CREATED="1458570964839" FOLDED="true" HGAP="103" ID="ID_1525908262" MODIFIED="1458742524378" POSITION="right" TEXT="Creating styles and style sheets" VSHIFT="2">
+<node CREATED="1458570964839" HGAP="103" ID="ID_1525908262" MODIFIED="1458826250139" POSITION="right" TEXT="Creating styles and style sheets" VSHIFT="2">
 <node CREATED="1458571035240" ID="ID_1528534687" MODIFIED="1458571049954" TEXT="Css is all about creating style , style sheets and mapping styles"/>
 <node CREATED="1458626724260" ID="ID_674847725" MODIFIED="1458626728938" TEXT="Creating style">
 <node CREATED="1458626744381" ID="ID_366265688" MODIFIED="1458626775341" TEXT="p {color:red ; font-size:1.5em ;}"/>
@@ -79,7 +79,7 @@
 </node>
 <node CREATED="1458626960330" ID="ID_1791294774" MODIFIED="1458626969103" TEXT="Validate css with css validator"/>
 </node>
-<node CREATED="1458627242628" FOLDED="true" HGAP="32" ID="ID_1412528336" MODIFIED="1458742512938" POSITION="right" TEXT="Selectors - Identifying what to style" VSHIFT="30">
+<node CREATED="1458627242628" HGAP="32" ID="ID_1412528336" MODIFIED="1458826308665" POSITION="right" TEXT="Selectors - Identifying what to style" VSHIFT="30">
 <node CREATED="1458627395346" ID="ID_1781032094" MODIFIED="1458627399765" TEXT="tag selector">
 <node CREATED="1458627493373" ID="ID_663076331" MODIFIED="1458627513640" TEXT="Most preferred as no special addition to html elements"/>
 <node CREATED="1458627515263" ID="ID_1111270383" MODIFIED="1458627538370" TEXT="Less control and wide spread applicability"/>
@@ -119,6 +119,18 @@
 <node CREATED="1458742483551" ID="ID_611567609" MODIFIED="1458742489583" POSITION="left" TEXT="Inheritance"/>
 <node CREATED="1458742495503" ID="ID_1144512711" MODIFIED="1458742495503" POSITION="left" TEXT=""/>
 <node CREATED="1458742498112" ID="ID_1013498698" MODIFIED="1458742498112" POSITION="left" TEXT=""/>
-<node CREATED="1458742500111" HGAP="-15" ID="ID_1976020254" MODIFIED="1458742517896" POSITION="right" TEXT="Inheritance" VSHIFT="59"/>
+<node CREATED="1458742500111" HGAP="-15" ID="ID_1976020254" MODIFIED="1458742517896" POSITION="right" TEXT="Inheritance" VSHIFT="59">
+<node CREATED="1458800994988" ID="ID_1635789743" MODIFIED="1458801018957" TEXT="Human inherit characteristics / genes from their parents and grand parents"/>
+<node CREATED="1458802923366" ID="ID_1926139302" MODIFIED="1458802939896" TEXT="HTML elment can inherit from its ancestors"/>
+<node CREATED="1458802941077" ID="ID_1673110176" MODIFIED="1458803076635" TEXT="Few propertie are not inherited like border , background color.. so on"/>
+<node CREATED="1458803105314" ID="ID_1987122427" MODIFIED="1458803128114" TEXT="IF there are any conflicts with inherited properties the closest one wins"/>
+<node CREATED="1458803321883" ID="ID_1270880946" MODIFIED="1458803470487" TEXT="Style conflicts">
+<node CREATED="1458803472632" ID="ID_1477583542" MODIFIED="1458803486115" TEXT="inheritance">
+<node CREATED="1458804583560" ID="ID_1366776989" MODIFIED="1458804592608" TEXT="Nearest ancestor wins"/>
+<node CREATED="1458804600856" ID="ID_631521206" MODIFIED="1458804685214" TEXT="Directly applied style wins . Some times browser applies default styles  to each element . You need to remove all those default seetings without which properties may not get inherited"/>
+</node>
+<node CREATED="1458803487090" ID="ID_1066584740" MODIFIED="1458803567757" TEXT="one or more styles apply to the same element  . EX , STyle appliee by class and element"/>
+</node>
+</node>
 </node>
 </map>
