@@ -1,9 +1,12 @@
-console.log(x);
+function a() {
 
-var x = 'anil';
+    function b() {
+        console.log(myVar);
+    }
 
-myTest();
+    b();
 
-function myTest() {
-   console.log('My test function is called');
-};
+}
+
+var myVar = 1;
+a();
