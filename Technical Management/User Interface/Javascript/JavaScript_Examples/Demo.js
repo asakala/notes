@@ -1,12 +1,13 @@
-function a() {
-
-    function b() {
-        console.log(myVar);
-    }
-
-    b();
-
+var anonymousGreeting = function() {
+    console.log('Hii');
 }
 
-var myVar = 1;
-a();
+anonymousGreeting();
+
+function log(a) {
+    a();
+}
+
+log(function() {
+    console.log('Log function called');
+});
