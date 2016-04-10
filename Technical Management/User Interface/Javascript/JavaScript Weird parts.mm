@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1458560621713" ID="ID_1880227655" MODIFIED="1459778436233" TEXT="Javascript weird parts">
+<node CREATED="1458560621713" ID="ID_1880227655" MODIFIED="1460221778563" TEXT="Javascript">
 <node CREATED="1459774686553" ID="ID_1551965066" MODIFIED="1459775229180" POSITION="right" TEXT="30 - Objects and dot">
 <node CREATED="1459774811334" ID="ID_1434509619" MODIFIED="1459774827350" TEXT="Object can be visualized as map in jaavscript"/>
 <node CREATED="1459774831599" ID="ID_1271090393" MODIFIED="1459774841374" TEXT="Different ways to create object">
@@ -88,5 +88,6 @@
 </node>
 </node>
 </node>
+<node CREATED="1460221759574" ID="ID_830335007" MODIFIED="1460221769207" POSITION="left" TEXT="this keyword"/>
 </node>
 </map>

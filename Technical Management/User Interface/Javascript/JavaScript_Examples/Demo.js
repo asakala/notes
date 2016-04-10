@@ -1,13 +1,10 @@
-var anonymousGreeting = function() {
-    console.log('Hii');
-}
+var hello = function () {
+   console.log('demo for testing');
 
-anonymousGreeting();
+   var test = function () {
+      alert('Hhi');
+   };
+};
 
-function log(a) {
-    a();
-}
 
-log(function() {
-    console.log('Log function called');
-});
+hello().test;
