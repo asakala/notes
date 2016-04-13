@@ -4,7 +4,8 @@ var hello = function () {
    var test = function () {
       alert('Hhi');
    };
+
+   2 + 3;
 };
 
-
-hello().test;
+hello.namet = 'Anil';
