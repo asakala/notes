@@ -1,11 +1,4 @@
-var hello = function () {
-   console.log('demo for testing');
-
-   var test = function () {
-      alert('Hhi');
-   };
-
-   2 + 3;
-};
-
-hello.namet = 'Anil';
+var fs = require('fs');
+fs.writeFileSync('cron.txt', 'This is my test file');
+console.log(fs.readFileSync('cron.txt'));
+console.log(fs.readFileSync('cron.txt')

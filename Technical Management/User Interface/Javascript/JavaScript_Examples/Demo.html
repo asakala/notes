@@ -1,16 +1,10 @@
-<!DOCTYPE html>
-
-<html>
-
-<head>
-    <script src="Demo.js"></script>
-</head>
-
-<body>
-
-
-    <p>dfhdgfhdu<b>sdfsduygusy</b></p>
-
-</body>
-
-</html>
+<script type="text/javascript">
+    // Popup window code
+    function newPopup(url) {
+        var settings = 'height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes';
+        popupWindow = window.open(
+            url, 'popUpWindow', settings)
+    }
+</script>
+<p>Popup Window:</p>
+<p><a href="JavaScript:newPopup('http://www.google.com');">Google Pop Up Page</a></p>
